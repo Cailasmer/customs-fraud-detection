@@ -9,4 +9,9 @@ Combining real and synthetic data enhances its accuracy and scalability, equippi
 - platform: Visual studio code
 
 # licence
-This project is licensed under the MIT License. See the [lisence](customs-fraud-detection/lisence) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](customs-fraud-detection/LICENSE) file for more details.
+
+# contact
+- Email: lasmerchadi@gmail.com
+- Github: [my github](https://github.com/Cailasmer)
+
